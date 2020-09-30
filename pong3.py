@@ -16,7 +16,7 @@ FPS =60
 
 # Colors
 white = (255, 255, 255)
-red = (255, 0, 0)
+red = (254, 0, 0)
 black = (0, 0, 0)
 
 # Creating window
